@@ -60,4 +60,4 @@ jobs:
         with:
           app-name: 'rihbot'
           slot-name: 'Production'
-          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_452260977B0A4249B17A56D8CB3F74F2 }}
+          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_136DCA8A31B34B0A8811136A34702055 }}
